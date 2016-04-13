@@ -8,6 +8,8 @@ W00t!!! Trying out Jekyll as a site generator for Perobscurus content.
 
 Jekyll has support for code snippets, neat! 
 
+example in post...
+
 <!--more-->
 
 {% highlight scala %}
