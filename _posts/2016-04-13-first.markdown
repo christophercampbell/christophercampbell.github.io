@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "First Post"
+title:  "Spider and Bee on Lupin"
 date:   2016-04-13 15:28:00 -0700
-categories: jekyll
+categories: flowers bugs
 ---
 
 ![Spider and Bee](/assets/spider-and-bee.png)
