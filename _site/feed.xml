@@ -6,8 +6,8 @@
 </description>
     <link>http://christophercampbell.github.io/</link>
     <atom:link href="http://christophercampbell.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 13 Apr 2016 16:09:46 -0700</pubDate>
-    <lastBuildDate>Wed, 13 Apr 2016 16:09:46 -0700</lastBuildDate>
+    <pubDate>Thu, 14 Apr 2016 10:24:44 -0700</pubDate>
+    <lastBuildDate>Thu, 14 Apr 2016 10:24:44 -0700</lastBuildDate>
     <generator>Jekyll v3.0.3</generator>
     
       <item>
@@ -15,15 +15,15 @@
         <description>&lt;p&gt;&lt;img src=&quot;/assets/crane-fly.png&quot; alt=&quot;Spider and Bee&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 13 Apr 2016 16:00:00 -0700</pubDate>
-        <link>http://christophercampbell.github.io/spring/flowers/bugs/2016/04/13/crane-fly.html</link>
-        <guid isPermaLink="true">http://christophercampbell.github.io/spring/flowers/bugs/2016/04/13/crane-fly.html</guid>
-        
+        <link>http://christophercampbell.github.io/2016/04/13/crane-fly.html</link>
+        <guid isPermaLink="true">http://christophercampbell.github.io/2016/04/13/crane-fly.html</guid>
         
         <category>spring</category>
         
-        <category>flowers</category>
+        <category>flower</category>
         
-        <category>bugs</category>
+        <category>bug</category>
+        
         
       </item>
     
@@ -32,13 +32,17 @@
         <description>&lt;p&gt;&lt;img src=&quot;/assets/spider-and-bee.png&quot; alt=&quot;Spider and Bee&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 13 Apr 2016 15:28:00 -0700</pubDate>
-        <link>http://christophercampbell.github.io/flowers/bugs/2016/04/13/first.html</link>
-        <guid isPermaLink="true">http://christophercampbell.github.io/flowers/bugs/2016/04/13/first.html</guid>
+        <link>http://christophercampbell.github.io/2016/04/13/first.html</link>
+        <guid isPermaLink="true">http://christophercampbell.github.io/2016/04/13/first.html</guid>
         
+        <category>spring</category>
         
-        <category>flowers</category>
+        <category>flower</category>
         
-        <category>bugs</category>
+        <category>bug</category>
+        
+        <category>spider</category>
+        
         
       </item>
     
@@ -58,11 +62,13 @@
 
 </description>
         <pubDate>Wed, 13 Apr 2016 13:45:43 -0700</pubDate>
-        <link>http://christophercampbell.github.io/jekyll/2016/04/13/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://christophercampbell.github.io/jekyll/2016/04/13/welcome-to-jekyll.html</guid>
-        
+        <link>http://christophercampbell.github.io/2016/04/13/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://christophercampbell.github.io/2016/04/13/welcome-to-jekyll.html</guid>
         
         <category>jekyll</category>
+        
+        <category>site</category>
+        
         
       </item>
     

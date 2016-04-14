@@ -2,7 +2,7 @@
 layout: post
 title:  "Jekyll Powered Postings"
 date:   2016-04-13 13:45:43 -0700
-categories: jekyll
+tags:	jekyll site
 ---
 W00t!!! Trying out Jekyll as a site generator for Perobscurus content.
 
