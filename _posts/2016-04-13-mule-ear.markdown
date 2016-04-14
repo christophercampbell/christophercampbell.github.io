@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Mule Ear"
+date:   2016-04-14 10:28:00 -0700
+tags: 	spring flower
+---
+
+![Mule Ear](/assets/mule-ear.png)
