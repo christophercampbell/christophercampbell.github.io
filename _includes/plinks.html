@@ -1,0 +1,12 @@
+<div style="float:right;">
+      {% if paginator.previous_page_path != nil %}
+      <a href="{{paginator.previous_page_path}}"><</a>
+      {% endif %}
+</div>
+
+<div style="float:right;">
+      {% if paginator.next_page_path != nil %}
+      <a href="{{paginator.next_page_path}}">></a>
+      {% endif %}  
+</div>
+      
