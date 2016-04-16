@@ -8,6 +8,8 @@ fi
 EDITOR=/opt/sublime
 
 title=`echo "$1" | sed 's/ /-/g' | tr '[:upper:]' '[:lower:]'`
+
+# todo: _drafts would be a natural place to put it also, then: jekyll serve --drafts for preview
 fileName="_posts/`date +%Y-%m-%d-$title.md`"
 
 touch $fileName
