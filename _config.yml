@@ -22,6 +22,10 @@ repository: christophercampbell/christophercampbell.github.io
 
 excerpt_separator: <!--more-->
 
+# Url style
+permalink: /:title
+
+# Pagination
 paginate: 5
 paginate_path: "/blog/page:num"
 
