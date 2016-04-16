@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Spider and Fly on Brodiaea"
-date:   2016-04-15 19:25:00 -0700
+date:   2016-04-15 12:00:00
 tags: 	spring flower fly spider 
 ---
 

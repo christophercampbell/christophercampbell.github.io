@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Spider and Bee on Lupin"
-date:   2016-04-13 15:28:00 -0700
+date:   2016-04-13 15:28:00
 tags: 	spring flower bee spider
 ---
 
