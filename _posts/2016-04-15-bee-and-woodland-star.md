@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Bee on Woodland Star"
+title:  Woodland Star and Bee
 date:   2016-04-15 12:00:02
 tags: 	spring flower bee
 ---
