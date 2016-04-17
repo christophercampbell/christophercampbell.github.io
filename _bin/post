@@ -7,22 +7,26 @@ fi
 
 EDITOR=/opt/sublime
 
-title=`echo "$1" | sed 's/ /-/g' | tr '[:upper:]' '[:lower:]'`
+title=$1
+
+titleString=`echo "$1" | sed 's/ /-/g' | tr '[:upper:]' '[:lower:]'`
+
+image=/images/image
 
 # todo: _drafts would be a natural place to put it also, then: jekyll serve --drafts for preview
-fileName="_posts/`date +%Y-%m-%d-$title.md`"
+fileName="_posts/`date +%Y-%m-%d-$titleString.md`"
 
 touch $fileName
 
 cat > $fileName <<DELIM
 ---
 layout: post
-title: "$1"
+title: "$title"
 date:  `date "+%Y-%m-%d %H:%M:%S"`
 categories: 
 ---
 
-![Alt](/assets/image.png)
+![$1]($image)
 
 <!--more-->
 
