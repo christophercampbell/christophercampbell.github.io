@@ -1,0 +1,22 @@
+<p class="post-meta">
+	{% if page.next.url %}
+  	<a class="next" href="{{page.next.url}}">{{page.next.title}}</a> <-
+	{% endif %}
+	{{page.title}} 
+	{% if page.previous.url %}
+	-> <a class="prev" href="{{page.previous.url}}">{{page.previous.title}}</a>
+	{% endif %}
+</p>
+
+<p class="post-meta">
+	{% if paginator.previous_page_path != nil %}
+      <a href="{{paginator.previous_page_path}}">newer</a>
+    	{% if paginator.next_page_path != nil %}
+    		•
+    	{% endif %}
+    {% endif %}
+    
+    {% if paginator.next_page_path != nil %}
+      <a href="{{paginator.next_page_path}}">older</a>
+    {% endif %}
+<p/>
