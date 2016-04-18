@@ -8,4 +8,4 @@ Perobscurus: obscure or vague
 
 {{ site.description }}
 
-![Lady Bugs](../assets/lady-bugs.png)
+![Lady Bugs](../images/lady-bugs.png)
