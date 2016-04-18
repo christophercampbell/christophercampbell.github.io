@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Grenadines"
+title: "Grenada"
 date:  2016-04-16 21:13:49
 categories: grenada
 ---
