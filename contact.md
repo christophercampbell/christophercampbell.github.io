@@ -6,6 +6,8 @@ permalink: /contact/
 
 christophercampbell at gmail com
 
+PGP Fingerprint ```B22A 6EAC 9B29 18BB 9D7F  F1BE 07D6 46B2 3677 DD41```
+
 <pre>
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Version: GnuPG v1
