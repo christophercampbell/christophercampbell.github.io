@@ -2,7 +2,7 @@
 layout: post
 title: "Markdown Math Examples"
 date:  2016-04-26 14:45:26
-categories: math
+tags: math
 ---
 
 Jekyll can render LaTex expressions using [MathJax](http://gastonsanchez.com/opinion/2014/02/16/Mathjax-with-jekyll/) 

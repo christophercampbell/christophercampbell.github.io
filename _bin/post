@@ -23,7 +23,7 @@ cat > $fileName <<DELIM
 layout: post
 title: "$title"
 date:  `date "+%Y-%m-%d %H:%M:%S"`
-categories: 
+tags: 
 ---
 
 ![$1]($image)

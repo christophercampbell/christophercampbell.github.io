@@ -2,7 +2,7 @@
 layout: post
 title: "Yellow Fairy Lantern"
 date:  2016-05-03 16:09:34
-categories: spring flower
+tags: spring flower
 ---
 
 ![Yellow Fairy Lantern](/images/yellow-fairy-lantern.png)
