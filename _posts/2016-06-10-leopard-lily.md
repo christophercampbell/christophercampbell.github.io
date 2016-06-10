@@ -7,6 +7,8 @@ tags: summer sierras flower lily
 
 ![Leopard Lily](/images/leopard-lily.png)
 
+![Leopard Lily](/images/leopard-lily-2.png)
+
 Lilium pardalinum
 
 <!--more-->
