@@ -5,7 +5,7 @@ date:  2016-06-17 16:28:32
 tags: flower native spring
 ---
 
-![Western Columbine](/images/columbine.jpg)
+<img src="/images/columbine.jpg" width="640" height="440" />
 
 Aquilegia formosa 
 
