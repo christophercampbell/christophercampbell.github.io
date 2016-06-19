@@ -7,8 +7,7 @@ tags: spring flower lily bug
 
 ![Bugs on Yellow Mariposa Lily](/images/yellow-mariposa-lily-1.png)
 
-<img src="/images/yellow-mariposa-lily-3.jpeg" width="640" height="440" />
-
+![Bugs on Yellow Mariposa Lily](/images/yellow-mariposa-lily-3.png)
 
 Chalocortus luteus
 

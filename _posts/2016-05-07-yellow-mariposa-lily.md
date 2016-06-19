@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Yellow Mariposy Lily"
+title: "Yellow Mariposa Lily"
 date:  2016-05-07 16:36:21
 tags: spring flower lily 
 ---
