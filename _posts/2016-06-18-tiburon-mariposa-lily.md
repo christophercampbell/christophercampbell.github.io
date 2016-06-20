@@ -5,7 +5,7 @@ date:  2016-06-18 17:24:43
 tags: spring flower lily rare
 ---
 
-![Tiburon Mariposa Lily](/images/tiburon-mariposa-lily.png)
+![Tiburon Mariposa Lily](/images/tiburon-mariposa-lily-1.png)
 
 Calochortus tiburonensis
 
