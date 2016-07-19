@@ -7,5 +7,7 @@ tags: spring flower milkweed california
 
 ![Milkweed](/images/purple-milkweed.png)
 
+Asclepias cordifolia 
+
 <!--more-->
 
