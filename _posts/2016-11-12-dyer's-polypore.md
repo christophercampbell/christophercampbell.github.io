@@ -9,7 +9,7 @@ tags: mushroom fall tilden
 ![Dyer's Polypore 2](/images/dyers-polypore-2.png)
 ![Dyer's Polypore 3](/images/dyers-polypore-3.png)
 
-Phaeolus schweinitzii over the course of a couple weeks
+Phaeolus schweinitzii over the course of a couple weeks.
 
 <!--more-->
 
