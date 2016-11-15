@@ -2,7 +2,7 @@
 layout: post
 title: "A Good Year for Edulis"
 date:  2016-11-12 19:50:59
-tags: mushroom fall tilden bolete
+tags: mushroom fall tilden bolete edible
 ---
 
 ![A Good Year for Edulis](/images/boletus-edulis.png)

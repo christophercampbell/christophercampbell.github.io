@@ -2,7 +2,7 @@
 layout: post
 title: "Golden Columbine"
 date:  2016-09-11 08:34:46
-tags: summer Tilden 
+tags: summer tilden 
 ---
 
 ![Golden Columbine](/images/golden-columbine-full.png)
