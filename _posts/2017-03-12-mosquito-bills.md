@@ -9,6 +9,8 @@ Also called shooting star, or sailor caps..
 
 ![Mosquito Bills](/images/shooting-star.png)
 
+![Mosquito Bills](/images/shooting-star2.png)
+
 Dodecatheon hendersonii
 
 <!--more-->
