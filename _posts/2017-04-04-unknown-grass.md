@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Unknown Grass"
+title: "Rosy Sandcrocus"
 date:  2017-04-04 14:49:50
-tags: california marin spring unidentified
+tags: california marin spring
 ---
 
-![Unknown Grass](/images/something-related-to-blue-eyed-grass.png)
+![Rosy sandcrocus](/images/rosy-sandcrocus.png)
 
-Some kind of Sisyrinchium? Dwarf blue eyed grass?
+[Romulea rosea](https://www.inaturalist.org/taxa/68896-Romulea-rosea)
 
 <!--more-->
 
