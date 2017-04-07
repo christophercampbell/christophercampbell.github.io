@@ -9,6 +9,6 @@ tags: california spring flower
 
 ![Scene on a Creamcup](/images/pretty-creamcup.png)
 
-Platystemon californicus
+[Platystemon californicus](http://www.inaturalist.org/taxa/51288-Platystemon-californicus)
 <!--more-->
 
