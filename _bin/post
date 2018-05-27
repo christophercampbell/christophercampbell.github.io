@@ -5,7 +5,7 @@ if [ "$#" -ne 1 ] ; then
   exit 1
 fi
 
-EDITOR=/opt/sublime
+EDITOR=$(which sublime)
 
 title=$1
 
