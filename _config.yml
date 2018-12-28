@@ -1,6 +1,8 @@
 # Site settings
 title: Perobscurus
 
+plugins: [jekyll-paginate]
+
 # the base hostname & protocol for the site
 url: "http://christophercampbell.github.io" 
 
