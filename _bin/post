@@ -23,7 +23,7 @@ cat > $fileName <<DELIM
 layout: post
 title: "$title"
 date:  `date "+%Y-%m-%d %H:%M:%S"`
-tags: 
+tags:
 ---
 
 ![$1]($image)
@@ -32,4 +32,4 @@ tags:
 
 DELIM
 
-$EDITOR $fileName
+vim $fileName
