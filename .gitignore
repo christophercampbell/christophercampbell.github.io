@@ -4,3 +4,4 @@ _site/
 pkg/
 */_site/
 .sass-cache/
+.idea
