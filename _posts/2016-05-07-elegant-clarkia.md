@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Elegant Clarkia"
+title: "Elegant clarkia"
 date:  2016-05-07 16:38:22
 tags: spring flower clarkia 
 ---
 
-![Elegant Clarkia](/images/elegant-clarkia.png)
+![Elegant clarkia](/images/elegant-clarkia.png)
 
 <!--more-->
 

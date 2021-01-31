@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Amanita Muscaria"
+title: "Amanita muscaria"
 date:  2016-04-28 08:28:03
 tags: winter mushroom
 ---

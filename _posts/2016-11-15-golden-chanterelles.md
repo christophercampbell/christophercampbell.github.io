@@ -7,6 +7,6 @@ tags: fall berkeley mushroom edible
 
 ![Golden Chanterelles](/images/golden-chanterelles.png)
 
-Cantharellus Californicus
+Cantharellus californicus
 <!--more-->
 
